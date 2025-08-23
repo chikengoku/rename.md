@@ -4,3 +4,4 @@
 Para ejecutar el the system install:
 
     'np istall react '
+using pull to see on pc
